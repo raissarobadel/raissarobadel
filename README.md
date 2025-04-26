@@ -1,13 +1,19 @@
 ## Hi there 👋
 
+## Títulos 
 
-# (Título hiper mega grande)
-## (Título grande)
-### (Título médio)
-#### (Título pequeno)
-##### (Título super pequeno)
-###### (Título hiper mega pequenininho)
+# (Título hiper mega grande) 
+## (Título grande) 
+### (Título médio) 
+#### (Título pequeno) 
+##### (Título super pequeno) 
+###### (Título hiper mega pequenininho) 
 
+## Itálico e Negrito
+
+*italico* ou _italico_
+
+**negrito** ou __negrito__
 
 <!--
 **raissarobadel/raissarobadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
