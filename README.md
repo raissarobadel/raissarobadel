@@ -33,7 +33,7 @@ ___itálico e negrito juntos___
 
 ![Imagem Teste 1](<Capa LinkedIn (2)-1.png>)
 
-## Blocos de Código
+## Linhas e Blocos de Código
 
 `console.log("Hello World")`
 
@@ -44,6 +44,10 @@ function saudacao(nome) {
 
 console.log(saudacao("Mundo")); 
 ```
+
+## Citações
+
+> "Não é o que acontece com você, mas como você reage a isso que importa." — Epicteto
 
 <!--
 **raissarobadel/raissarobadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
