@@ -15,6 +15,8 @@
 
 **negrito** ou __negrito__
 
+___itálico e negrito juntos___
+
 <!--
 **raissarobadel/raissarobadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
