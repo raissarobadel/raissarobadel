@@ -49,6 +49,13 @@ console.log(saudacao("Mundo"));
 
 > "Não é o que acontece com você, mas como você reage a isso que importa." — Epicteto
 
+## Tabelas
+
+| Cabeçalho 1 | Cabeçalho 2 |
+| ----------- | ----------- |
+|   Texto 1   |   Texto 2   |
+|   Texto 3   |   Texto 4   |
+
 <!--
 **raissarobadel/raissarobadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
