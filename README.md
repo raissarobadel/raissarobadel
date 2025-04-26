@@ -33,6 +33,17 @@ ___itálico e negrito juntos___
 
 ![Imagem Teste 1](<Capa LinkedIn (2)-1.png>)
 
+## Blocos de Código
+
+`console.log("Hello World")`
+
+``` javascript
+function saudacao(nome) {
+  return `Olá, ${nome}!`;
+}
+
+console.log(saudacao("Mundo")); 
+```
 
 <!--
 **raissarobadel/raissarobadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
