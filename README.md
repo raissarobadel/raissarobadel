@@ -17,6 +17,17 @@
 
 ___itálico e negrito juntos___
 
+## Listas
+
+- Lista 1 
+- Lista 2
+  - Sublista
+	
+1. Lista 1 
+2. Lista 2
+   1. Sublista
+
+
 <!--
 **raissarobadel/raissarobadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
