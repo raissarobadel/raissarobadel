@@ -56,6 +56,11 @@ console.log(saudacao("Mundo"));
 |   Texto 1   |   Texto 2   |
 |   Texto 3   |   Texto 4   |
 
+## Checkout
+
+[x] Tarefa 1 <br>
+[ ] Tarefa 2
+ 
 <!--
 **raissarobadel/raissarobadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
