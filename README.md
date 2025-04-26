@@ -27,6 +27,12 @@ ___itálico e negrito juntos___
 2. Lista 2
    1. Sublista
 
+## Links 
+
+[Imagem Teste](https://i.pinimg.com/736x/ae/01/17/ae011751dec942b02a695342eadd09d8.jpg)
+
+![Imagem Teste 1](<Capa LinkedIn (2)-1.png>)
+
 
 <!--
 **raissarobadel/raissarobadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
