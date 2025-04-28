@@ -2,7 +2,9 @@
   <img src="Capa LinkedIn (3).png" alt="Capa Raíssa Robadel" style="display: block; margin: 0;">
 <div style="height: 6px; background: linear-gradient(to right, #ffb6c1, #e6e6fa); margin: 0;"></div>
 
-<center><h2> Estudante | Desenvolvimento | Sistemas de Informação </h2></center>
+<div align="center">
+  <h2> Estudante | Desenvolvimento | Sistemas de Informação </h2>
+</div>
 
 <p align="center">
 <img src="Girl Studying Sakura Quest.gif" alt="Gif Girl Studying" style="display: block; margin: 0;">
