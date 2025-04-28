@@ -1,77 +1,77 @@
-## Hi there 👋
+<div style="height: 6px; background: linear-gradient(to right, #ffb6c1, #e6e6fa);"></div>
+  <img src="Capa LinkedIn (3).png" alt="Capa Raíssa Robadel" style="display: block; margin: 0;">
+<div style="height: 6px; background: linear-gradient(to right, #ffb6c1, #e6e6fa); margin: 0;"></div>
 
-## Títulos 
+<center><h2> Estudante | Desenvolvimento | Sistemas de Informação </h2></center>
 
-# (Título hiper mega grande) 
-## (Título grande) 
-### (Título médio) 
-#### (Título pequeno) 
-##### (Título super pequeno) 
-###### (Título hiper mega pequenininho) 
+<p align="center">
+<img src="Girl Studying Sakura Quest.gif" alt="Gif Girl Studying" style="display: block; margin: 0;">
+</p>
 
-## Itálico e Negrito
+<h2> Sobre mim </h2>
 
-*italico* ou _italico_
+- 🌸 Olá! Me chamo Raíssa Robadel. Atualmente, sou estudante de Sistemas de Informação no Centro Universitário Newton Paiva, com conhecimento básico e crescente em tecnologias de programação e desenvolvimento de software.
 
-**negrito** ou __negrito__
+- 👩🏻‍💻 Conto com habilidades iniciais em programação lógica e uso de software, desenvolvidas por meio de formação acadêmica e cursos complementares, com familiaridade introdutória em JavaScript.
 
-___itálico e negrito juntos___
+- 🫂 Entre as qualidades que busco constantemente aprimorar, destaco a competência, fazer o que é proposto com qualidade, o bom relacionamento entre pessoas, facilidade de aprender e determinação e responsabilidade, educação, disciplina e pontualidade. 
 
-## Listas
+- 📕 Além da formação acadêmica, estou aprimorando meus conhecimentos por meio de plataformas de capacitação como a DIO (Digital Innovation One) 
 
-- Lista 1 
-- Lista 2
-  - Sublista
-	
-1. Lista 1 
-2. Lista 2
-   1. Sublista
+- 🗣️ Idiomas: Português (nativo) | Inglês (Intermediário)
 
-## Links 
+<h2>Entre em contato comigo</h2>
 
-[Imagem Teste](https://i.pinimg.com/736x/ae/01/17/ae011751dec942b02a695342eadd09d8.jpg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/raíssarobadel" >
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ffc0cb&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" />
+  </a>
+  <a href="mailto:raissarobadelbarbosa@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=mail&label=&color=ffc0cb&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="email logo" style="display: inline-block;" />
+  </a>
+</p>
 
-![Imagem Teste 1](<Capa LinkedIn (2)-1.png>)
+<p align="center">
+<h4> Perfil da DIO </h4>
+  <a href="https://www.dio.me/users/raissacupcakes2">
+    <img src="https://img.shields.io/static/v1?message=DIO&logo=mail&label=&color=ffc0cb&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="email logo" style="display: inline-block;" />
+  </a>
+</p>
 
-## Linhas e Blocos de Código
+<br>
 
-`console.log("Hello World")`
+| Cursos DIO | Certificados |
+|-------- | ------------ |
+|Formação Lógica de Programação | [📜 Ver meu Diploma da DIO](https://www.dio.me/certificate/2JRTIQHI/share) 
+<br>
 
-``` javascript
-function saudacao(nome) {
-  return `Olá, ${nome}!`;
-}
+<div style="height: 6px; background: linear-gradient(to right, #ffb6c1, #e6e6fa);"></div> <br>
 
-console.log(saudacao("Mundo")); 
-```
+<p align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raissarobadel&show_icons=true&count_private=true&title_color=ff69b4&text_color=5c5c5c&icon_color=ff69b4&bg_color=fff0f5&border_color=ffe6eb" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissarobadel&layout=compact&title_color=ff69b4&text_color=5c5c5c&bg_color=fff0f5&border_color=ffe6eb" />
+</p>
 
-## Citações
+<div style="height: 6px; background: linear-gradient(to right, #ffb6c1, #e6e6fa);"></div>
 
-> "Não é o que acontece com você, mas como você reage a isso que importa." — Epicteto
+<h2> Em constante evolução </h2> <br>
 
-## Tabelas
+<p align=center>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="80px"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="80px"> 
+</p>
 
-| Cabeçalho 1 | Cabeçalho 2 |
-| ----------- | ----------- |
-|   Texto 1   |   Texto 2   |
-|   Texto 3   |   Texto 4   |
+<br>
 
-## Checkout
+<div style="height: 6px; background: linear-gradient(to right, #ffb6c1, #e6e6fa);"></div> <br>
 
-[x] Tarefa 1 <br>
-[ ] Tarefa 2
- 
-<!--
-**raissarobadel/raissarobadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "O princípio da sabedoria é: adquire a sabedoria; com todos os teus ganhos, adquire a inteligência!" <br>
+Provérbios 4, 7
 
-Here are some ideas to get you started:
+<details align="left">
+  <summary>Créditos</summary> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - GitHub Stats por <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  <br>
+
+  - Perfil inspirado por <a href="https://github.com/felipeAguiarCode/">felipeAguiarCode</a>
