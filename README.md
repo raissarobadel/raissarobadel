@@ -1,6 +1,6 @@
-<div style="height: 6px; background: linear-gradient(to right, #ffb6c1, #e6e6fa);"></div>
+<img src="Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" />
   <img src="Capa LinkedIn (3).png" alt="Capa Raíssa Robadel" style="display: block; margin: 0;">
-<div style="height: 6px; background: linear-gradient(to right, #ffb6c1, #e6e6fa); margin: 0;"></div>
+<img src="Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" />
 
 <div align="center">
   <h2> Estudante | Desenvolvimento | Sistemas de Informação </h2>
@@ -12,15 +12,15 @@
 
 <h2> Sobre mim </h2>
 
-- 🌸 Olá! Me chamo Raíssa Robadel. Atualmente, sou estudante de Sistemas de Informação no Centro Universitário Newton Paiva, com conhecimento básico e crescente em tecnologias de programação e desenvolvimento de software.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="20" height="20" /> Olá! Me chamo Raíssa Robadel. Atualmente, sou estudante de Sistemas de Informação no Centro Universitário Newton Paiva, com conhecimento básico e crescente em tecnologias de programação e desenvolvimento de software.
 
-- 👩🏻‍💻 Conto com habilidades iniciais em programação lógica e uso de software, desenvolvidas por meio de formação acadêmica e cursos complementares, com familiaridade introdutória em JavaScript.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="20" height="20" /> Conto com habilidades iniciais em programação lógica e uso de software, desenvolvidas por meio de formação acadêmica e cursos complementares, com familiaridade introdutória em JavaScript.
 
-- 🫂 Entre as qualidades que busco constantemente aprimorar, destaco a competência, fazer o que é proposto com qualidade, o bom relacionamento entre pessoas, facilidade de aprender e determinação e responsabilidade, educação, disciplina e pontualidade. 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" alt="People Hugging" width="20" height="20" /> Entre as qualidades que busco constantemente aprimorar, destaco a competência, fazer o que é proposto com qualidade, o bom relacionamento entre pessoas, facilidade de aprender e determinação e responsabilidade, educação, disciplina e pontualidade. 
 
-- 📕 Além da formação acadêmica, estou aprimorando meus conhecimentos por meio de plataformas de capacitação como a DIO (Digital Innovation One) 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Book.png" alt="Closed Book" width="20" height="20" /> Além da formação acadêmica, estou aprimorando meus conhecimentos por meio de plataformas de capacitação como a DIO (Digital Innovation One) 
 
-- 🗣️ Idiomas: Português (nativo) | Inglês (Intermediário)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Speaking%20Head.png" alt="Speaking Head" width="20" height="20" /> Idiomas: Português (nativo) | Inglês (Intermediário)
 
 <h2>Entre em contato comigo</h2>
 
@@ -47,14 +47,16 @@
 |Formação Lógica de Programação | [📜 Ver meu Diploma da DIO](https://www.dio.me/certificate/2JRTIQHI/share) 
 <br>
 
-<div style="height: 6px; background: linear-gradient(to right, #ffb6c1, #e6e6fa);"></div> <br>
+<img src="Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" />
+
+<br>
 
 <p align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raissarobadel&show_icons=true&count_private=true&title_color=ff69b4&text_color=5c5c5c&icon_color=ff69b4&bg_color=fff0f5&border_color=ffe6eb" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissarobadel&layout=compact&title_color=ff69b4&text_color=5c5c5c&bg_color=fff0f5&border_color=ffe6eb" />
 </p>
 
-<div style="height: 6px; background: linear-gradient(to right, #ffb6c1, #e6e6fa);"></div>
+<img src="Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" /> <br>
 
 <h2> Em constante evolução </h2> <br>
 
@@ -65,7 +67,7 @@
 
 <br>
 
-<div style="height: 6px; background: linear-gradient(to right, #ffb6c1, #e6e6fa);"></div> <br>
+<img src="Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" /> <br>
 
 > "O princípio da sabedoria é: adquire a sabedoria; com todos os teus ganhos, adquire a inteligência!" <br>
 Provérbios 4, 7
