@@ -1,6 +1,6 @@
-<img src="Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" />
-  <img src="Capa LinkedIn (3).png" alt="Capa Raíssa Robadel" style="display: block; margin: 0;">
-<img src="Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" />
+<img src="./assets/Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" />
+  <img src="./assets/Capa LinkedIn (4).png" alt="Capa Raíssa Robadel" style="display: block; margin: 0;">
+<img src="./assets/Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" />
 
 <div align="center">
   <h2> Desenvolvimento de Software | Lógica de Programação | JavaScript | Git e GitHub | Embaixadora Universitária na DIO </h2>
@@ -48,7 +48,7 @@
 
 <br>
 
-<img src="Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" />
+<img src="./assets/Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" />
 
 <br>
 
@@ -62,7 +62,7 @@
 
 <br>
 
-<img src="Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" />
+<img src="./assets/Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" />
 
 <br>
 
@@ -71,7 +71,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissarobadel&layout=compact&title_color=ff69b4&text_color=5c5c5c&bg_color=fff0f5&border_color=ffe6eb" />
 </p>
 
-<img src="Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" /> <br>
+<img src="./assets/Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" /> <br>
 
 <h2> Em constante evolução </h2> <br>
 
@@ -82,7 +82,7 @@
 
 <br>
 
-<img src="Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" /> <br>
+<img src="./assets/Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" /> <br>
 
 > "O princípio da sabedoria é: adquire a sabedoria; com todos os teus ganhos, adquire a inteligência!" <br>
 Provérbios 4, 7
