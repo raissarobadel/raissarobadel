@@ -1,5 +1,5 @@
 <img src="./assets/Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" />
-  <img src="./assets/Capa LinkedIn (4).png" alt="Capa Raíssa Robadel" style="display: block; margin: 0;">
+  <img src="./assets/Capa LinkedIn.png" alt="Capa Raíssa Robadel" style="display: block; margin: 0;">
 <img src="./assets/Pink Gradient.png" alt="barra decorativa" width="100%" height="6px" />
 
 <div align="center">
@@ -12,13 +12,13 @@
 
 <h2> Sobre mim </h2>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="20" height="20" /> Olá! Me chamo Raíssa Robadel. Sou estudante do curso Sistemas de Informação no Centro Universitário Newton Paiva Wyden, com conhecimento básico e crescente em tecnologias de programação e desenvolvimento de software.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="20" height="20" /> Olá! Me chamo Raíssa Robadel. Sou estudante do curso Sistemas de Informação no Centro Universitário Newton Paiva Wyden, com conhecimento crescente em tecnologias de design de produto, programação e desenvolvimento de software.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="20" height="20" /> Conto com habilidades iniciais em programação lógica e uso de software, desenvolvidas por meio de formação acadêmica e cursos complementares, com familiaridade introdutória em JavaScript.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="20" height="20" /> Conto com habilidades em UI/UX Design e programação lógica, desenvolvidas por meio de formação acadêmica e cursos complementares, com familiaridade introdutória em Figma, HTML, CSS e JavaScript.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" alt="People Hugging" width="20" height="20" /> Entre as qualidades que busco constantemente aprimorar, destaco a competência, fazer o que é proposto com qualidade, o bom relacionamento entre pessoas, facilidade de aprender e determinação e responsabilidade, educação, disciplina e pontualidade. 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" alt="People Hugging" width="20" height="20" /> Entre as qualidades que busco constantemente aprimorar, destaco a criatividade, competência, o bom relacionamento entre pessoas, facilidade de aprender, determinação e responsabilidade, educação, disciplina e pontualidade. 
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Book.png" alt="Closed Book" width="20" height="20" /> Além da formação acadêmica, estou aprimorando meus conhecimentos por meio de plataformas de capacitação como a DIO (Digital Innovation One), onde sou Embaixadora Univérsitária através do programa DIO Campus Expert.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Book.png" alt="Closed Book" width="20" height="20" /> Além da formação acadêmica, estou aprimorando meus conhecimentos por meio de plataformas de capacitação como a DIO (Digital Innovation One), onde me tornei Embaixadora Univérsitária, e posteriormente Alumni, através do programa de embaixadores universitários DIO Campus Expert.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Speaking%20Head.png" alt="Speaking Head" width="20" height="20" /> Idiomas: Português (Nativo) | Inglês (Intermediário)
 
@@ -58,6 +58,7 @@
 |Formação Lógica de Programação | [📜 Ver meu Diploma da DIO](https://www.dio.me/certificate/2JRTIQHI/share) 
 |Formação GitHub Certification | [📜 Ver meu Diploma da DIO](https://www.dio.me/certificate/W0BGQDAN/share)
 |Introdução à Programação e Pensamento Computacional | [📜 Ver meu Diploma da DIO](https://www.dio.me/certificate/ZF5I8FWA/share)
+|DIO Campus Expert - Turma 13| [📜 Ver meu Diploma da DIO](https://drive.google.com/file/d/1Vvbptv7HwIYQBQzdXGAh3IyLatCRdH2y/view)
 
 
 <br>
@@ -76,6 +77,9 @@
 <h2> Em constante evolução </h2> <br>
 
 <p align=center>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="80px"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="80px"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="80px"> 
 </p>
